@@ -7,7 +7,8 @@ h1 {
     margin-bottom: 0;
     margin-top: 0;
     text-align: center;
-    font-size: 40px;
+    font-size: 80px;
+    font-family: 'Caveat', cursive;
 }
 
 h3 {
@@ -35,19 +36,19 @@ h3 {
     width: 87%;
     border: none;
     border-bottom: 3px solid #009688;
-    font-family: monospace;
+    font-family: 'Caveat', cursive;
     font-size: 17px;
 }
 
 #buttonInput {
     padding: 3px;
-    font-family: monospace;
+    font-family: 'Caveat', cursive;
     font-size: 17px;
 }
 
 .userText {
     color: white;
-    font-family: monospace;
+    font-family: 'Caveat', cursive;
     font-size: 17px;
     text-align: right;
     line-height: 30px;
@@ -60,8 +61,8 @@ h3 {
 }
 
 .botText {
-    color: white;
-    font-family: monospace;
+    color: white;    
+    font-family: 'Caveat', cursive;
     font-size: 17px;
     text-align: left;
     line-height: 30px;
