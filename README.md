@@ -1,5 +1,6 @@
+# Chat Bot - Italian
 
-Italian bot version using chatterbot.
+Italian bot version built with chatterbot.
 
 ## Getting Started
 
@@ -20,5 +21,5 @@ Italian bot version using chatterbot.
 * <a href="">Flask</a>
 * <a href="">Chatterbot</a>
 
-#Acknowledgements
+## Acknowledgements
 * I understood how to use chatterbot thanks to <a href="https://github.com/chamkank/flask-chatterbot">this!</a>
