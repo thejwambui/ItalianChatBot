@@ -5,7 +5,7 @@ Italian bot version built with chatterbot.
 ## Getting Started
 
 * Clone this repository
-``` git clone https://github.com/thejwambui/chat-bot.git ```
+``` git clone https://github.com/thejwambui/ItalianChatBot.git ```
  
  * Create and activate a virtual environment
 
