@@ -1,5 +1,5 @@
 body {
-   font-family: 'VT323', monospace;
+   
    background-image: url('/static/background.jpeg');
 }
 
@@ -9,7 +9,13 @@ h1 {
     margin-top: 0;
     text-align: center;
     font-size: 80px;
-    font-family: 'VT323', monospace;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+p{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
@@ -37,45 +43,45 @@ h3 {
     width: 87%;
     border: none;
     border-bottom: 3px solid #009688;
-    font-family: 'Caveat', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 17px;
 }
 
 #buttonInput {
-    padding: 3px;
-    font-family: 'Caveat', cursive;
+    padding: 2px;
+    font-family: 'Montserrat', sans-serif;
     font-size: 17px;
     border: none;
     color: white;
     border-radius: 8px;
-    padding: 10px 24px;
+    padding: 10px 20px;
     background-color: #008CBA;
 }
 
 .userText {
     color: white;
-    font-family: 'Caveat', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 17px;
     text-align: right;
     line-height: 30px;
 }
 
 .userText span {
-    background-color: #009688;
+    background-color: #d776dd;
     padding: 10px;
     border-radius: 2px;
 }
 
 .botText {
     color: white;    
-    font-family: 'Caveat', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 17px;
     text-align: left;
     line-height: 30px;
 }
 
 .botText span {
-    background-color: #EF5350;
+    background-color: #6b60e3;
     padding: 10px;
     border-radius: 2px;
 }
