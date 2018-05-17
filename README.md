@@ -16,6 +16,9 @@ Italian bot version built with chatterbot.
  * Install all files in requirements.txt
 
  ``` pip install -r requirements.txt ```
+## Known Bugs
+Intended to be an italian bot but pushing my work to pythonanywhere yielded a bi-lingual chatbot.Yet to find out why that is so.
+
 
 ## Built using:
 * <a href="">Flask</a>
