@@ -11,7 +11,7 @@ function getBotResponse() {
           });
         }
         $("#textInput").keypress(function(e) {
-            if(e.which == 10) {
+            if(e.which == 5) {
                 getBotResponse();
             }
         });
